@@ -488,6 +488,15 @@ const Showcases = [
     tags: ["nft"],
   },
   {
+    title: "Frank Hampus Weslien",
+    description:
+      "Fine art on the Cardano blockchain.",
+    preview: require("./showcase/frankhampusweslien.png"),
+    website: "https://www.frankhampusweslien.com/",
+    source: null,
+    tags: ["nft"],
+  },
+  {
     title: "ADA Dolls",
     description:
       "There are 10,000 unique dolls. These will be randomly generated from a possible outcome of 1,000,000 doll combinations.",
